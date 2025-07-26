@@ -1,6 +1,6 @@
 package com.course.entities;
 
-public class Parallelogram extends Shape {
+public class Parallelogram extends AbstractShape {
 
     private double base;
     private double height;

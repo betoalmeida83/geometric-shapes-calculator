@@ -1,6 +1,6 @@
 package com.course.entities;
 
-public abstract class Triangle extends Shape {
+public abstract class Triangle extends AbstractShape {
 
     private double sideA;
     private double sideB;

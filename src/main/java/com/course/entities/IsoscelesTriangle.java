@@ -1,6 +1,6 @@
 package com.course.entities;
 
-public class IsoscelesTriangle extends Triangle{
+public class IsoscelesTriangle extends Triangle {
 
     public IsoscelesTriangle(Color color, double sideA, double sideB, double sideC) {
         super(color, sideA, sideB, sideC);

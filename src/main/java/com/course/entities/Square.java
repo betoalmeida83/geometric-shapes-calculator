@@ -1,6 +1,6 @@
 package com.course.entities;
 
-public class Square extends Shape{
+public class Square extends AbstractShape {
 
     private double side;
 

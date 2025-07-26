@@ -1,6 +1,6 @@
 package com.course.entities;
 
-public class Rhombus extends Shape {
+public class Rhombus extends AbstractShape {
 
     private double majorDiagonal;
     private double minorDiagonal;

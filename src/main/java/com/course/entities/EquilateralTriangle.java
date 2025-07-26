@@ -1,6 +1,6 @@
 package com.course.entities;
 
-public class EquilateralTriangle extends Triangle{
+public class EquilateralTriangle extends Triangle {
 
     public EquilateralTriangle(Color color, double sideA, double sideB, double sideC) {
         super(color, sideA, sideB, sideC);

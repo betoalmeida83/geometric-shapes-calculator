@@ -1,6 +1,6 @@
 package com.course.entities;
 
-public class Trapezoid extends Shape {
+public class Trapezoid extends AbstractShape {
 
     private double base1;
     private double base2;

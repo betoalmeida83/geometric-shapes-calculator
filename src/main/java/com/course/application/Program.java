@@ -2,6 +2,7 @@ package com.course.application;
 
 import com.course.entities.*;
 
+import java.util.Locale;
 import java.util.Scanner;
 
 import static com.course.entities.Color.*;
@@ -10,6 +11,7 @@ public class Program {
 
     public static void main(String[] args) {
 
+        Locale.setDefault(Locale.US);
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("1. Circle");
